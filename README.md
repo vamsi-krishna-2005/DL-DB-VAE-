@@ -71,5 +71,5 @@ This project explores how Variational Autoencoders (VAEs) can help mitigate data
 - Sampling based on latent rarity can correct dataset imbalance
 - DB-VAE shows improved fairness without needing skin tone labels
 
----![DB-VAE Overview](https://github.com/user-attachments/assets/351a347c-5faa-40fc-9819-dc6efef04419)
+![DB-VAE Overview](https://github.com/user-attachments/assets/351a347c-5faa-40fc-9819-dc6efef04419)
 

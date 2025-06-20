@@ -5,7 +5,7 @@ from PIL import Image
 import cv2
 
 # Load model
-model = tf.keras.models.load_model('models/resampled_model.h5')
+model = tf.keras.models.load_model('resampled_model.keras')
 
 # Set page config
 st.set_page_config(page_title="DB-VAE Face Classifier", layout="centered")
